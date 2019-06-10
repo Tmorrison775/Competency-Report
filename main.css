@@ -1,0 +1,22 @@
+@import "secondary.css";
+.headers{
+    color: #faea08;
+    text-align: center;
+}
+ul li{
+    padding: 0px 10px 0px 10px;
+    display: inline-block;
+    text-align: center;
+}
+body{
+    background: #08eee2;
+    Margin: 0px;
+}
+h1:hover {
+    font-size: 50px;
+    rotate: 120;
+}
+#div1 {
+    width: 100%;
+    text-align: center;
+}
